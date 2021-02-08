@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Insuffisance Veineuse",
+    "navigation": "IVLanding",
+    "key": "1"
+  },
+  {
+    "title": "Entorse & Torticolis",
+    "navigation": "Entorse",
+    "key": "2"
+  },
+  {
+    "title": "Douleurs Articulaires",
+    "navigation": "DArti",
+    "key": "3"
+  },
+  {
+    "title": "Douleurs Musculaires",
+    "navigation": "DMuscu",
+    "key": "4"
+  },
+  {
+    "title": "Hallux Valgus",
+    "navigation": "Hallux",
+    "key": "5"
+  }
+]

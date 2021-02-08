@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "question": "J'ai les jambes lourdes",
+    "answer": "vrai",
+    "answerTextVrai": ", c'est ce que vous entendrez le plus souvent au comptoir.",
+    "answerTextFaux": "Vous entendrez souvent cette remarque, veillez bien à ne pas exclure l'insuffisance veineuse qui est la raison numéro 1 de ce mal-être."
+  },
+  {
+    "id": 1,
+    "question": "J'ai mal à la cheville quand je marche",
+    "answer": "faux",
+    "answerTextVrai": ", l'insuffisance veineuse ne provoque pas de douleur liées aux articulations de la jambe.",
+    "answerTextFaux": " l'insuffisance veineuse ne provoque pas de douleur liées aux articulations de la jambe."
+  },
+  {
+    "id": 2,
+    "question": "Je ressens des crampes aux jambes lors de mon sommeil",
+    "answer": "faux",
+    "answerTextVrai": ", en effet, ce symptôme n'est pas très spécifique, et vous devez questionner plus longuement votre patient.",
+    "answerTextFaux": "En effet, ce symptôme n'est pas très spécifique, et vous devez questionner plus longuement votre patient. "
+  },
+  {
+    "id": 3,
+    "question": "J'ai mal aux jambes, je suis toute la journée debout/assis",
+    "answer": "vrai",
+    "answerTextVrai": ", c'est un élément très important qui nous guide vers l'insuffisance veineuse, à ne pas oublier !",
+    "answerTextFaux": "C'est un élément très important qui nous guide vers l'insuffisance veineuse, à ne pas oublier ! "
+  },
+  {
+    "id": 4,
+    "question": "Mes jambes sont gonflées le soir",
+    "answer": "vrai",
+    "answerTextVrai": ", c’est un symptôme un peu plus rare, mais très spécifique de l’insuffisance veineuse, gardez-le dans un coin de votre tête.",
+    "answerTextFaux": "C’est un symptôme un peu plus rare, mais très spécifique de l’insuffisance veineuse, gardez-le dans un coin de votre tête. "
+  },
+  {
+    "id": 5,
+    "question": "J’ai des douleurs aux jambes depuis que je suis enceinte",
+    "answer": "vrai",
+    "answerTextVrai": ", l’insuffisance veineuse est un trouble très fréquent lors d’une grossesse, et c’est un symptôme à surveiller sérieusement.",
+    "answerTextFaux": "L’insuffisance veineuse est un trouble très fréquent lors d’une grossesse, et c’est un symptôme à surveiller sérieusement."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Dermatologie",
+    "navigation": "Dermato",
+    "key": "1"
+  },
+  {
+    "title": "Gastro-entérologie",
+    "navigation": "Gastro",
+    "key": "2"
+  },
+  {
+    "title": "Odontologie",
+    "navigation": "Odontologie",
+    "key": "3"
+  },
+  {
+    "title": "Ophtalmologie",
+    "navigation": "Ophtalmologie",
+    "key": "4"
+  },
+  {
+    "title": "ORL & pneumonologie",
+    "navigation": "ORL",
+    "key": "5"
+  },
+  {
+    "title": "Orthopédie",
+    "navigation": "Orthopedie",
+    "key": "6"
+  },
+  {
+    "title": "Neuro-psychatrie",
+    "navigation": "Neuro",
+    "key": "7"
+  }
+]

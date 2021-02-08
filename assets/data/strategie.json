@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Règles hygiéno-diététiques",
+    "navigation": "IVHD",
+    "key": "1"
+  },
+  {
+    "title": "Dispositifs médicaux",
+    "navigation": "IVDispo",
+    "key": "2"
+  },
+  {
+    "title": "Phytothérapie",
+    "navigation": "IVPhyto",
+    "key": "3"
+  },
+  {
+    "title": "Aromathérapie",
+    "navigation": "IVAroma",
+    "key": "4"
+  },
+  {
+    "title": "Homéopathie",
+    "navigation": "IVHomeo",
+    "key": "5"
+  }
+]
